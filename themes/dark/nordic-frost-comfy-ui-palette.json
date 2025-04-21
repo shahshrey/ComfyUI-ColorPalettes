@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "nordic_frost",
+  "name": "Nordic Frost",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#81A1C1",
+      "CLIP_VISION": "#8FBCBB",
+      "CLIP_VISION_OUTPUT": "#88C0D0",
+      "CONDITIONING": "#5E81AC",
+      "CONTROL_NET": "#B48EAD",
+      "IMAGE": "#A3BE8C",
+      "INT": "#EBCB8B",
+      "LATENT": "#D08770",
+      "MASK": "#BF616A",
+      "MODEL": "#5E81AC",
+      "PIPE_LINE": "#81A1C1",
+      "PIPE_LINE_SDXL": "#8FBCBB",
+      "STYLE_MODEL": "#A3BE8C",
+      "TAESD": "#D8DEE9",
+      "VAE": "#ECEFF4",
+      "XYPLOT": "#E5E9F0",
+      "X_Y": "#B48EAD"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#2E3440",
+      "NODE_TITLE_COLOR": "#E5E9F0",
+      "NODE_SELECTED_TITLE_COLOR": "#88C0D0",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#ECEFF4",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(40, 44, 52, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(59, 66, 82, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#81A1C1",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#88C0D0",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#3B4252",
+      "WIDGET_OUTLINE_COLOR": "#4C566A",
+      "WIDGET_TEXT_COLOR": "#E5E9F0",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#D8DEE9",
+      "LINK_COLOR": "#8FBCBB",
+      "EVENT_LINK_COLOR": "#BF616A",
+      "CONNECTING_LINK_COLOR": "#A3BE8C"
+    },
+    "comfy_base": {
+      "fg-color": "#ECEFF4",
+      "bg-color": "#2E3440",
+      "comfy-menu-bg": "rgba(46, 52, 64, 0.95)",
+      "comfy-input-bg": "#3B4252",
+      "input-text": "#E5E9F0",
+      "descrip-text": "#D8DEE9",
+      "drag-text": "#ECEFF4",
+      "error-text": "#BF616A",
+      "border-color": "#4C566A",
+      "tr-even-bg-color": "rgba(59, 66, 82, 0.95)",
+      "tr-odd-bg-color": "rgba(67, 76, 94, 0.95)"
+    }
+  }
+} 

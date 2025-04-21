@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "pastel_dreams",
+  "name": "Pastel Dreams",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#ffd1dc", 
+      "CLIP_VISION": "#ffb3ba", 
+      "CLIP_VISION_OUTPUT": "#ff7b7b", 
+      "CONDITIONING": "#ffdea5", 
+      "CONTROL_NET": "#baddf9", 
+      "IMAGE": "#cbf0f8", 
+      "INT": "#f0f0f0", 
+      "LATENT": "#d7a9e3", 
+      "MASK": "#bde0fe", 
+      "MODEL": "#ffd1dc",
+      "PIPE_LINE": "#ffdea5",
+      "PIPE_LINE_SDXL": "#ff7b7b",
+      "STYLE_MODEL": "#baddf9",
+      "TAESD": "#ffd1dc",
+      "VAE": "#cbf0f8",
+      "XYPLOT": "#bde0fe",
+      "X_Y": "#ffdea5"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#4a4a6a",
+      "NODE_TITLE_COLOR": "#ffffff",
+      "NODE_SELECTED_TITLE_COLOR": "#ffd1dc",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#e0e0f0",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(90, 90, 120, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(74, 74, 106, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#a0a0c0",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#ffb3ba",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.2)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#6a6a8a",
+      "WIDGET_OUTLINE_COLOR": "#a0a0c0",
+      "WIDGET_TEXT_COLOR": "#ffffff",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#d7a9e3",
+      "LINK_COLOR": "#bde0fe",
+      "EVENT_LINK_COLOR": "#ff7b7b",
+      "CONNECTING_LINK_COLOR": "#ffb3ba"
+    },
+    "comfy_base": {
+      "fg-color": "#e0e0f0",
+      "bg-color": "#4a4a6a",
+      "comfy-menu-bg": "rgba(74, 74, 106, 0.95)",
+      "comfy-input-bg": "#6a6a8a",
+      "input-text": "#ffffff",
+      "descrip-text": "#a0a0c0",
+      "drag-text": "#d7a9e3",
+      "error-text": "#ff7b7b",
+      "border-color": "#6a6a8a",
+      "tr-even-bg-color": "rgba(90, 90, 120, 0.95)",
+      "tr-odd-bg-color": "rgba(74, 74, 106, 0.95)"
+    }
+  }
+} 

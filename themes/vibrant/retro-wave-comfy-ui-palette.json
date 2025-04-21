@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "retro_wave",
+  "name": "Retro Wave",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#ffdf00", 
+      "CLIP_VISION": "#00f0ff", 
+      "CLIP_VISION_OUTPUT": "#ff00ff", 
+      "CONDITIONING": "#ff8000", 
+      "CONTROL_NET": "#00ff80", 
+      "IMAGE": "#8000ff", 
+      "INT": "#e0e0e0", 
+      "LATENT": "#ff0080", 
+      "MASK": "#00ff00", 
+      "MODEL": "#ffdf00",
+      "PIPE_LINE": "#ff8000",
+      "PIPE_LINE_SDXL": "#ff00ff",
+      "STYLE_MODEL": "#00ff80",
+      "TAESD": "#ffdf00",
+      "VAE": "#8000ff",
+      "XYPLOT": "#00ff00",
+      "X_Y": "#ff8000"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "", 
+      "CLEAR_BACKGROUND_COLOR": "#200030",
+      "NODE_TITLE_COLOR": "#f0f0ff",
+      "NODE_SELECTED_TITLE_COLOR": "#ffdf00",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#d0d0f0",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(50, 0, 80, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(32, 0, 48, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#8040a0",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#00f0ff",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.4)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#400060",
+      "WIDGET_OUTLINE_COLOR": "#8040a0",
+      "WIDGET_TEXT_COLOR": "#f0f0ff",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#ff0080",
+      "LINK_COLOR": "#00ff00",
+      "EVENT_LINK_COLOR": "#ff00ff",
+      "CONNECTING_LINK_COLOR": "#00f0ff"
+    },
+    "comfy_base": {
+      "fg-color": "#d0d0f0",
+      "bg-color": "#200030",
+      "comfy-menu-bg": "rgba(32, 0, 48, 0.95)",
+      "comfy-input-bg": "#400060",
+      "input-text": "#f0f0ff",
+      "descrip-text": "#8040a0",
+      "drag-text": "#ff0080",
+      "error-text": "#ff00ff",
+      "border-color": "#400060",
+      "tr-even-bg-color": "rgba(50, 0, 80, 0.95)",
+      "tr-odd-bg-color": "rgba(32, 0, 48, 0.95)"
+    }
+  }
+} 

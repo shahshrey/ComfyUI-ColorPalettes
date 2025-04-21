@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "cotton_candy",
+  "name": "Cotton Candy",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#F8BBD0",
+      "CLIP_VISION": "#F48FB1",
+      "CLIP_VISION_OUTPUT": "#F06292",
+      "CONDITIONING": "#EC407A",
+      "CONTROL_NET": "#E91E63",
+      "IMAGE": "#BBDEFB",
+      "INT": "#90CAF9",
+      "LATENT": "#64B5F6",
+      "MASK": "#42A5F5",
+      "MODEL": "#2196F3",
+      "PIPE_LINE": "#D1C4E9",
+      "PIPE_LINE_SDXL": "#B39DDB",
+      "STYLE_MODEL": "#9575CD",
+      "TAESD": "#7E57C2",
+      "VAE": "#673AB7",
+      "XYPLOT": "#E1BEE7",
+      "X_Y": "#CE93D8"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#FAFAFA",
+      "NODE_TITLE_COLOR": "#424242",
+      "NODE_SELECTED_TITLE_COLOR": "#E91E63",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#616161",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(250, 250, 250, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(245, 245, 245, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#F06292",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#EC407A",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.1)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#F5F5F5",
+      "WIDGET_OUTLINE_COLOR": "#F48FB1",
+      "WIDGET_TEXT_COLOR": "#424242",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#616161",
+      "LINK_COLOR": "#F06292",
+      "EVENT_LINK_COLOR": "#2196F3",
+      "CONNECTING_LINK_COLOR": "#9575CD"
+    },
+    "comfy_base": {
+      "fg-color": "#424242",
+      "bg-color": "#FAFAFA",
+      "comfy-menu-bg": "rgba(250, 250, 250, 0.95)",
+      "comfy-input-bg": "#F5F5F5",
+      "input-text": "#424242",
+      "descrip-text": "#616161",
+      "drag-text": "#424242",
+      "error-text": "#E91E63",
+      "border-color": "#F48FB1",
+      "tr-even-bg-color": "rgba(245, 245, 245, 0.95)",
+      "tr-odd-bg-color": "rgba(240, 240, 240, 0.95)"
+    }
+  }
+} 

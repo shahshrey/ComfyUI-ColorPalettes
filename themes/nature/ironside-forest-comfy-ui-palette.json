@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "ironside_forest",
+  "name": "Ironside Forest",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#4D6A6D",
+      "CLIP_VISION": "#5B7065",
+      "CLIP_VISION_OUTPUT": "#A0A083",
+      "CONDITIONING": "#687864",
+      "CONTROL_NET": "#5F7278",
+      "IMAGE": "#8AAAA5",
+      "INT": "#D7D7C1",
+      "LATENT": "#7A918D",
+      "MASK": "#9DAD91",
+      "MODEL": "#445552",
+      "PIPE_LINE": "#4D6A6D",
+      "PIPE_LINE_SDXL": "#5F7278",
+      "STYLE_MODEL": "#5B7065",
+      "TAESD": "#7A918D",
+      "VAE": "#8AAAA5",
+      "XYPLOT": "#9DAD91",
+      "X_Y": "#A0A083"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#283431",
+      "NODE_TITLE_COLOR": "#E0E0C5",
+      "NODE_SELECTED_TITLE_COLOR": "#A0A083",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#C5D1CA",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(40, 52, 49, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(57, 71, 67, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#4D6A6D",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#5B7065",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#394743",
+      "WIDGET_OUTLINE_COLOR": "#5B7065",
+      "WIDGET_TEXT_COLOR": "#E0E0C5",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#C5D1CA",
+      "LINK_COLOR": "#9DAD91",
+      "EVENT_LINK_COLOR": "#A0A083",
+      "CONNECTING_LINK_COLOR": "#7A918D"
+    },
+    "comfy_base": {
+      "fg-color": "#C5D1CA",
+      "bg-color": "#283431",
+      "comfy-menu-bg": "rgba(40, 52, 49, 0.95)",
+      "comfy-input-bg": "#394743",
+      "input-text": "#E0E0C5",
+      "descrip-text": "#A0A083",
+      "drag-text": "#7A918D",
+      "error-text": "#E6A57A",
+      "border-color": "#394743",
+      "tr-even-bg-color": "rgba(40, 52, 49, 0.95)",
+      "tr-odd-bg-color": "rgba(57, 71, 67, 0.95)"
+    }
+  }
+} 

@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "ocean_breeze",
+  "name": "Ocean Breeze",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#4FC3F7",
+      "CLIP_VISION": "#29B6F6",
+      "CLIP_VISION_OUTPUT": "#03A9F4",
+      "CONDITIONING": "#00BCD4",
+      "CONTROL_NET": "#26C6DA",
+      "IMAGE": "#00ACC1",
+      "INT": "#0097A7",
+      "LATENT": "#00838F",
+      "MASK": "#006064",
+      "MODEL": "#80DEEA",
+      "PIPE_LINE": "#4DD0E1",
+      "PIPE_LINE_SDXL": "#B2EBF2",
+      "STYLE_MODEL": "#84FFFF",
+      "TAESD": "#18FFFF",
+      "VAE": "#00E5FF",
+      "XYPLOT": "#64FFDA",
+      "X_Y": "#1DE9B6"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#0D2B36",
+      "NODE_TITLE_COLOR": "#E1F5FE",
+      "NODE_SELECTED_TITLE_COLOR": "#B3E5FC",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#B3E5FC",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(13, 43, 54, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(27, 79, 97, 0.9)",
+      "NODE_DEFAULT_BOXCOLOR": "#26C6DA",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#4FC3F7",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#1B4F61",
+      "WIDGET_OUTLINE_COLOR": "#26C6DA",
+      "WIDGET_TEXT_COLOR": "#E1F5FE",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#B3E5FC",
+      "LINK_COLOR": "#00E5FF",
+      "EVENT_LINK_COLOR": "#FF8A65",
+      "CONNECTING_LINK_COLOR": "#4FC3F7"
+    },
+    "comfy_base": {
+      "fg-color": "#E1F5FE",
+      "bg-color": "#0D2B36",
+      "comfy-menu-bg": "rgba(13, 43, 54, 0.95)",
+      "comfy-input-bg": "#1B4F61",
+      "input-text": "#E1F5FE",
+      "descrip-text": "#B3E5FC",
+      "drag-text": "#E1F5FE",
+      "error-text": "#FF8A65",
+      "border-color": "#26C6DA",
+      "tr-even-bg-color": "rgba(27, 79, 97, 0.95)",
+      "tr-odd-bg-color": "rgba(19, 63, 78, 0.95)"
+    }
+  }
+} 

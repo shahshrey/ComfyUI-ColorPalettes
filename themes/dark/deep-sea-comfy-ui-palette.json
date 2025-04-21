@@ -1,0 +1,62 @@
+{
+  "version": 102,
+  "id": "deep_sea",
+  "name": "Deep Sea",
+  "colors": {
+    "node_slot": {
+      "CLIP": "#00CED1",
+      "CLIP_VISION": "#4682B4",
+      "CLIP_VISION_OUTPUT": "#1E90FF",
+      "CONDITIONING": "#20B2AA",
+      "CONTROL_NET": "#5F9EA0",
+      "IMAGE": "#00BFFF",
+      "INT": "#B0C4DE",
+      "LATENT": "#48D1CC",
+      "MASK": "#AFEEEE",
+      "MODEL": "#191970",
+      "PIPE_LINE": "#00CED1",
+      "PIPE_LINE_SDXL": "#4682B4",
+      "STYLE_MODEL": "#00CED1",
+      "TAESD": "#00CED1",
+      "VAE": "#1E90FF",
+      "XYPLOT": "#20B2AA",
+      "X_Y": "#4682B4"
+    },
+    "litegraph_base": {
+      "BACKGROUND_IMAGE": "",
+      "CLEAR_BACKGROUND_COLOR": "#0A192F",
+      "NODE_TITLE_COLOR": "#00CED1",
+      "NODE_SELECTED_TITLE_COLOR": "#1E90FF",
+      "NODE_TEXT_SIZE": 14,
+      "NODE_TEXT_COLOR": "#B0C4DE",
+      "NODE_SUBTEXT_SIZE": 12,
+      "NODE_DEFAULT_COLOR": "rgba(10, 25, 47, 0.9)",
+      "NODE_DEFAULT_BGCOLOR": "rgba(0, 206, 209, 0.2)",
+      "NODE_DEFAULT_BOXCOLOR": "#4682B4",
+      "NODE_DEFAULT_SHAPE": "box",
+      "NODE_BOX_OUTLINE_COLOR": "#1E90FF",
+      "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
+      "DEFAULT_GROUP_FONT": 24,
+      "WIDGET_BGCOLOR": "#5F9EA0",
+      "WIDGET_OUTLINE_COLOR": "#00CED1",
+      "WIDGET_TEXT_COLOR": "#00CED1",
+      "WIDGET_SECONDARY_TEXT_COLOR": "#B0C4DE",
+      "LINK_COLOR": "#20B2AA",
+      "EVENT_LINK_COLOR": "#1E90FF",
+      "CONNECTING_LINK_COLOR": "#00CED1"
+    },
+    "comfy_base": {
+      "fg-color": "#00CED1",
+      "bg-color": "#0A192F",
+      "comfy-menu-bg": "rgba(10,25,47,0.95)",
+      "comfy-input-bg": "#5F9EA0",
+      "input-text": "#00CED1",
+      "descrip-text": "#B0C4DE",
+      "drag-text": "#1E90FF",
+      "error-text": "#1E90FF",
+      "border-color": "#4682B4",
+      "tr-even-bg-color": "rgba(10,25,47,0.95)",
+      "tr-odd-bg-color": "rgba(0,206,209,0.2)"
+    }
+  }
+} 

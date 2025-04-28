@@ -1,7 +1,7 @@
 {
   "version": 102,
-  "id": "nord",
-  "name": "Nord",
+  "id": "nord2",
+  "name": "Nord2",
   "colors": {
     "node_slot": {
       "CLIP": "#ebcb8b",
@@ -29,12 +29,15 @@
       "NODE_SELECTED_TITLE_COLOR": "#88c0d0",
       "NODE_TEXT_SIZE": 14,
       "NODE_TEXT_COLOR": "#d8dee9",
+      "NODE_TEXT_HIGHLIGHT_COLOR": "#ebcb8b",
       "NODE_SUBTEXT_SIZE": 12,
       "NODE_DEFAULT_COLOR": "rgba(59, 66, 82, 0.9)",
       "NODE_DEFAULT_BGCOLOR": "rgba(46, 52, 64, 0.9)",
       "NODE_DEFAULT_BOXCOLOR": "#4c566a",
       "NODE_DEFAULT_SHAPE": "box",
       "NODE_BOX_OUTLINE_COLOR": "#81a1c1",
+      "NODE_BYPASS_BGCOLOR": "#4c566a",
+      "NODE_ERROR_COLOUR": "#bf616a",
       "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
       "DEFAULT_GROUP_FONT": 24,
       "WIDGET_BGCOLOR": "#3b4252",
@@ -43,12 +46,16 @@
       "WIDGET_SECONDARY_TEXT_COLOR": "#a3be8c",
       "LINK_COLOR": "#a3be8c",
       "EVENT_LINK_COLOR": "#bf616a",
-      "CONNECTING_LINK_COLOR": "#81a1c1"
+      "CONNECTING_LINK_COLOR": "#81a1c1",
+      "BADGE_FG_COLOR": "#2e3440",
+      "BADGE_BG_COLOR": "#eceff4"
     },
     "comfy_base": {
       "fg-color": "#d8dee9",
       "bg-color": "#2e3440",
       "comfy-menu-bg": "rgba(46, 52, 64, 0.95)",
+      "comfy-menu-hover-bg": "rgba(59, 66, 82, 0.95)",
+      "comfy-menu-secondary-bg": "rgba(52, 59, 73, 0.95)",
       "comfy-input-bg": "#3b4252",
       "input-text": "#eceff4",
       "descrip-text": "#4c566a",
@@ -56,7 +63,12 @@
       "error-text": "#bf616a",
       "border-color": "#3b4252",
       "tr-even-bg-color": "rgba(59, 66, 82, 0.95)",
-      "tr-odd-bg-color": "rgba(46, 52, 64, 0.95)"
+      "tr-odd-bg-color": "rgba(46, 52, 64, 0.95)",
+      "content-bg": "#242933",
+      "content-fg": "#d8dee9",
+      "content-hover-bg": "#3b4252",
+      "content-hover-fg": "#eceff4",
+      "bar-shadow": "rgba(0,0,0,0.25) 0 0 7px"
     }
   }
 } 

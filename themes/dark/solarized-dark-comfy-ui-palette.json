@@ -29,12 +29,15 @@
       "NODE_SELECTED_TITLE_COLOR": "#fdf6e3",
       "NODE_TEXT_SIZE": 14,
       "NODE_TEXT_COLOR": "#93a1a1",
+      "NODE_TEXT_HIGHLIGHT_COLOR": "#b58900",
       "NODE_SUBTEXT_SIZE": 12,
       "NODE_DEFAULT_COLOR": "rgba(0, 43, 54, 0.9)",
       "NODE_DEFAULT_BGCOLOR": "rgba(7, 54, 66, 0.9)",
       "NODE_DEFAULT_BOXCOLOR": "#268bd2",
       "NODE_DEFAULT_SHAPE": "box",
       "NODE_BOX_OUTLINE_COLOR": "#2aa198",
+      "NODE_BYPASS_BGCOLOR": "#586e75",
+      "NODE_ERROR_COLOUR": "#dc322f",
       "DEFAULT_SHADOW_COLOR": "rgba(0,0,0,0.3)",
       "DEFAULT_GROUP_FONT": 24,
       "WIDGET_BGCOLOR": "#073642",
@@ -43,12 +46,16 @@
       "WIDGET_SECONDARY_TEXT_COLOR": "#93a1a1",
       "LINK_COLOR": "#859900",
       "EVENT_LINK_COLOR": "#dc322f",
-      "CONNECTING_LINK_COLOR": "#268bd2"
+      "CONNECTING_LINK_COLOR": "#268bd2",
+      "BADGE_FG_COLOR": "#002b36",
+      "BADGE_BG_COLOR": "#eee8d5"
     },
     "comfy_base": {
       "fg-color": "#93a1a1",
       "bg-color": "#002b36",
       "comfy-menu-bg": "rgba(0, 43, 54, 0.95)",
+      "comfy-menu-hover-bg": "rgba(7, 54, 66, 0.95)",
+      "comfy-menu-secondary-bg": "rgba(4, 48, 59, 0.95)",
       "comfy-input-bg": "#073642",
       "input-text": "#eee8d5",
       "descrip-text": "#93a1a1",
@@ -56,7 +63,12 @@
       "error-text": "#dc322f",
       "border-color": "#586e75",
       "tr-even-bg-color": "rgba(7, 54, 66, 0.95)",
-      "tr-odd-bg-color": "rgba(0, 43, 54, 0.95)"
+      "tr-odd-bg-color": "rgba(0, 43, 54, 0.95)",
+      "content-bg": "#002129",
+      "content-fg": "#93a1a1",
+      "content-hover-bg": "#073642",
+      "content-hover-fg": "#eee8d5",
+      "bar-shadow": "rgba(0,0,0,0.2) 0 0 6px"
     }
   }
 } 
